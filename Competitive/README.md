@@ -1,6 +1,5 @@
-#Readme
+#Competitive NN. 
 
-This is a competitive NN. 
 I have 4 groups of data and I'm ploting different data with different amount of neurons, I want to see here how different the data looks like with different parameters and what is the best option
 
 The training data is 
